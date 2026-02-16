@@ -29,8 +29,8 @@
             ],
             "equipmentCategory": [
                 "acce",
-                "weap",
-                "armo"
+                "armo",
+                "weap"
             ]
         },
         {
@@ -43,8 +43,8 @@
             ],
             "equipmentCategory": [
                 "acce",
-                "armo",
-                "weap"
+                "weap",
+                "armo"
             ]
         },
         {
@@ -53,14 +53,14 @@
             "ruleType": "show",
             "filterEtherealSocketed": true,
             "equipmentCategory": [
-                "bows",
                 "palad",
+                "bows",
                 "warlo",
                 "maces",
-                "helms",
                 "stave",
-                "axes",
+                "helms",
                 "druid",
+                "axes",
                 "circl",
                 "sorce",
                 "amazo",
@@ -74,6 +74,15 @@
                 "scept",
                 "sword",
                 "assas"
+            ]
+        },
+        {
+            "name": "Show ALL Gems",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "itemCategory": [
+                "gems"
             ]
         },
         {
@@ -100,6 +109,28 @@
                 "hp1",
                 "hp4",
                 "hp3"
+            ]
+        },
+        {
+            "name": "Show Flawless/P Gems",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "gpw",
+                "skl",
+                "gzv",
+                "gpb",
+                "gly",
+                "gpy",
+                "gpr",
+                "glb",
+                "glw",
+                "glg",
+                "gpg",
+                "gpv",
+                "skz",
+                "glr"
             ]
         },
         {
@@ -186,8 +217,8 @@
             "filterEtherealSocketed": true,
             "equipmentItemCode": [
                 "xtp",
-                "uui",
-                "utp"
+                "utp",
+                "uui"
             ]
         },
         {
@@ -200,8 +231,8 @@
             ],
             "equipmentItemCode": [
                 "xtp",
-                "utp",
-                "uui"
+                "uui",
+                "utp"
             ]
         },
         {
@@ -214,8 +245,8 @@
             ],
             "equipmentItemCode": [
                 "xtp",
-                "uui",
-                "utp"
+                "utp",
+                "uui"
             ]
         },
         {
@@ -224,8 +255,8 @@
             "ruleType": "show",
             "filterEtherealSocketed": true,
             "equipmentItemCode": [
-                "7pa",
                 "7wc",
+                "7pa",
                 "7vo",
                 "7s8",
                 "7h7"
@@ -240,8 +271,8 @@
                 "hiQuality"
             ],
             "equipmentItemCode": [
-                "7wc",
                 "7pa",
+                "7wc",
                 "7vo",
                 "7s8",
                 "7h7"
@@ -328,11 +359,12 @@
             ],
             "equipmentCategory": [
                 "acce",
-                "armo",
-                "weap"
+                "weap",
+                "armo"
             ],
             "itemCategory": [
                 "ammo",
+                "gems",
                 "scrlt",
                 "keysr"
             ],
